@@ -1,4 +1,6 @@
 #!/bin/bash
+#not complete
+exit 1
 wget -c ftp://ftp.vim.org/pub/vim/unix/vim-7.3.tar.bz2
 tar -xvf vim-7.3.tar.bz2
 run cd vim73

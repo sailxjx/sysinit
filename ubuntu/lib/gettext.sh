@@ -1,2 +1,2 @@
 #!/bin/bash
-apt-get install gettext
+sudo apt-get install gettext
